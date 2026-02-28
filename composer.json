@@ -1,0 +1,5 @@
+{  
+    "require": {  
+        "openai/openai-php": "^2.0"  
+    }  
+}
