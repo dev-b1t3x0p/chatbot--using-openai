@@ -1,0 +1,19 @@
+# Composer dependencies
+/vendor/
+
+# PHPStorm
+.idea
+
+# Laravel
+/public/storage
+/storage/*.key
+
+# WordPress
+wp-config.php
+wp-content/uploads/
+
+# miscellaneous
+.DS_Store
+Thumbs.db
+.env
+/.env.*
